@@ -1,19 +1,18 @@
 # MAST30034 Project 1 - Quantitative Analysis
-- Student Name: _Insert Name_
-- Student ID: _Insert Student ID_
-- Due Date: Friday 13th of August 11:59:00 am (AEST).
+- Student Name: Yutong Liu
+- Student ID: 1074416
+- Due Date: Friday 16th of August 11:59:00 am (AEST).
 - Report Link: _Insert Report Link if applicable_
 
 # Dependencies
 - Language: _i.e Python 3.8.3 and/or R 4.05_
-- Packages / Libraries: _i.e pandas, pyspark, sklearn, statsmodels, folium, etc... OR add a `requirements.txt`_
+- Packages / Libraries: _i.e pandas, sklearn, folium, seaborn, matplotlib, geopandas 
 
 # Datasets
 - NYC TLC: https://www1.nyc.gov/site/tlc/about/tlc-trip-record-data.page
-- External dataset 1: (optional)
+- External dataset 1: https://raw.githubusercontent.com/nychealth/coronavirus-data/master/trends/cases-by-day.csv
 - External dataset 2: (optional)
-- ...
-- External dataset n: (optional)
+
 
 # Directory
 _Change this to fit your needs when you have started the project._
