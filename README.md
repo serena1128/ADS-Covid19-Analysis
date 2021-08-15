@@ -17,7 +17,7 @@
 # Directory
 - `raw_data`: Contains the aggregated data set 'fhvhv_covid.csv'. There is another preprocessed data set 'fhvhv_2020.feather' contains all trip reccords of High Volume For-Hire Vehicles from September to December 2020. As this file is too large to upload, you can generate it from Notebook 2.
 - `preprocessed_data`: Contains all the preprocessed data files. You may add this folder to `.gitignore` if your files are too large, but your script should automaticaally generate files here given the correct dataset in `raw_data`.
-- `plots`: Output and save all your figures here.
+- `plots`: All figures are saved as pdf format, except for geospatial maps which is stored as html format. You can generate the maps from Notebook 3 in order to view them.
 - `code`: Keep all notebooks and scripts in this folder. Ensure that you have notebooks for each _stage_ of code. Here's an example:
     - Notebook 1 for "Extracting Data & Installing Packages".
     - Notebook 2 for "Preprocessing & Exploratory Data Analysis".
