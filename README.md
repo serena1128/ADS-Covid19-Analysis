@@ -1,4 +1,4 @@
-# MAST30034 Project 1 - Quantitative Analysis of HVFHV under COVID-19
+# Quantitative Analysis of HVFHV under COVID-19
 - Student Name: Yutong Liu
 - Student ID: 1074416
 - Due Date: Friday 16th of August 11:59:00 am (AEST).
