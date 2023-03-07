@@ -1,8 +1,5 @@
 # Quantitative Analysis of HVFHV under COVID-19
 - Student Name: Yutong Liu
-- Student ID: 1074416
-- Due Date: Friday 16th of August 11:59:00 am (AEST).
-- Report Link: _Insert Report Link if applicable_
 
 # Dependencies
 - Language:  Python 3.8.3 
